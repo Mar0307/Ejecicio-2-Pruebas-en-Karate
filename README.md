@@ -1,2 +1,1 @@
-# Ejecicio-2-Pruebas-en-Karate
-en este repositorio puden ver 
+mvn archetype:generate -DarchetypeGroupId=io.karatelabs -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.5.0 DgroupId=com.pruebasofka -DartifactId=karate-poc
