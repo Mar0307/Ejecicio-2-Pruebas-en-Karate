@@ -1,0 +1,15 @@
+Aquí presento los escenarios para la ejecución de los escenarios en Karate
+mvn test -Dtest=PetRunner - Crear usuario
+mvn test -Dtest=BuscarUsuRunner  - Buscar el usuario creado
+mvn test -Dtest=ActualizarRunner  - Actualizar 
+mvn test -Dtest=BuscarUsuRunner - Buscar el usuario actualizado
+mvn test -Dtest=EliminarUsuRunner - Eliminar Usuario
+Conclusión 
+
+Conclusiones
+1. lo que a mi me pareció y la experiencia que tengo en Karate permite escribir pruebas de API de una manera clara y concisa usando archivos .feature, al realizar las Apis en karate facilita la creación y contiene la Eficiencia y Velocidad en la Escritura de Pruebas.
+2. Se me presento que al crear un usuario y luego actualizarlo, se observó que las pruebas pueden volverse dependientes de los datos y el estado.
+
+Hallazgos
+
+a mi se me presento limitaciones con Errores de Red ya que cuando realice las API´S de PetStore se me presento unos errores de red también tuve tiempos de espera.

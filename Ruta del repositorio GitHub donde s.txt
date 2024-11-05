@@ -1,0 +1,3 @@
+Ruta del repositorio GitHub donde se encuentran los puntos de los ejercicios
+ 
+https://github.com/Mar0307/Ejecicio-2-Pruebas-en-Karate
